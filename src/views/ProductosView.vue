@@ -84,6 +84,7 @@ export default {
   background-color:#E83E8C; 
   border-color: #ff008c;
   margin-bottom: 2rem;
+  border-radius: 0.5rem;
 }
 
 .btn-primary:hover {
